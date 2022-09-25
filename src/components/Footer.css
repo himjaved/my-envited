@@ -1,0 +1,22 @@
+.Footer {
+  font-family: "SF Pro Text";
+  margin-top: 40px;
+  color: blue;
+}
+
+.domain {
+  font-size: 16px;
+  display: flex;
+  justify-content: space-evenly;
+
+  background: rgba(0, 0, 0, 0.08);
+  text-align: center;
+  border-radius: 12px;
+}
+.navigation {
+  font-size: 16px;
+  margin-top: 20px;
+  display: flex;
+  justify-content: space-evenly;
+  color: blue;
+}

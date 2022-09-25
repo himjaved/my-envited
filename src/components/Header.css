@@ -1,0 +1,11 @@
+.Header {
+  font-size: 15px;
+  display: flex;
+  margin-top: 10px;
+}
+.signal {
+  margin-left: 280px;
+}
+.time {
+  margin-left: 5px;
+}
